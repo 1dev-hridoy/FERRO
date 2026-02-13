@@ -1,0 +1,6 @@
+{
+    "name": "file_ops",
+    "version": "1.0.0",
+    "description": "File operations plugin for reading, writing, and managing files",
+    "author": "1dev-hridoy"
+}

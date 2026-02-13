@@ -1,0 +1,6 @@
+{
+    "name": "system_stats",
+    "version": "1.0.0",
+    "description": "Get system statistics including CPU, memory, disk, and process information",
+    "author": "1dev-hridoy"
+}

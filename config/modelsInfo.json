@@ -1,0 +1,35 @@
+{
+    "baseUrl": "https://ferro.jhs.one",
+    "models": [
+        {
+            "name": "GPT-OSS-120B",
+            "quickDescription": "Generate text responses from AI",
+            "endpoint": "/api/ai/gpt-oss-120b"
+        },
+        {
+            "name": "ZAI-GLM-4.7",
+            "quickDescription": "Generate text responses from ZAI GLM model",
+            "endpoint": "/api/ai/zai-glm-4.7"
+        },
+        {
+            "name": "Llama-3.1-8B",
+            "quickDescription": "Generate text responses from Llama model",
+            "endpoint": "/api/ai/llama3.1-8b"
+        },
+        {
+            "name": "Qwen-3-32B",
+            "quickDescription": "Generate text responses from Qwen model",
+            "endpoint": "/api/ai/qwen-3-32b"
+        },
+        {
+            "name": "Compound-Mini",
+            "quickDescription": "Generate text responses from Compound-Mini model",
+            "endpoint": "/api/ai/compound-mini"
+        },
+        {
+            "name": "Allam-2-7B",
+            "quickDescription": "Generate text responses from Allam model",
+            "endpoint": "/api/ai/allam-2-7b"
+        }
+    ]
+}

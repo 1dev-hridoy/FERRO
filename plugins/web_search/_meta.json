@@ -1,0 +1,10 @@
+{
+    "name": "web_search",
+    "version": "1.0.0",
+    "author": "hridoyxqc",
+    "description": "Search the internet for real-time information",
+    "slug": "system-web-search",
+    "display_name": "Web Search",
+    "commit_url": "",
+    "plugin_url": ""
+}

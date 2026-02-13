@@ -1,0 +1,10 @@
+{
+    "name": "web_extractor",
+    "version": "1.0.0",
+    "author": "hridoyxqc",
+    "description": "Extract metadata and info from any webpage/URL",
+    "slug": "web-extractor",
+    "display_name": "Web Extractor",
+    "commit_url": "",
+    "plugin_url": ""
+}

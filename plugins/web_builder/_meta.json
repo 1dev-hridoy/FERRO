@@ -1,0 +1,7 @@
+{
+    "name": "web_builder",
+    "version": "1.0.0",
+    "description": "Generate full website structures (HTML/CSS/JS) and send them as ZIP.",
+    "author": "1dev-hridoy",
+    "license": "ISC"
+}

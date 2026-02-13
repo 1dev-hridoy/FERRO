@@ -1,0 +1,10 @@
+{
+    "name": "image_search",
+    "version": "1.0.0",
+    "author": "1dev-hridoy",
+    "description": "Search for images on Google and send them to the chat",
+    "slug": "image-search",
+    "display_name": "Image Search",
+    "commit_url": "",
+    "plugin_url": ""
+}

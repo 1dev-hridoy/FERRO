@@ -1,0 +1,6 @@
+/data/my-chat_history.json
+bot.js.backup
+/node_modules/
+.env
+/bin/
+temp_builds/

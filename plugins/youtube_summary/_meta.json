@@ -1,0 +1,7 @@
+{
+    "name": "youtube_summary",
+    "description": "Summarize YouTube videos using docsbot.ai",
+    "version": "1.0.0",
+    "author": "1dev-hridoy",
+    "license": "MIT"
+}

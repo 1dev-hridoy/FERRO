@@ -1,0 +1,10 @@
+{
+    "name": "history_search",
+    "version": "1.0.0",
+    "author": "1dev-hridoy",
+    "description": "Search past conversation history",
+    "slug": "system-history-search",
+    "display_name": "History Search",
+    "commit_url": "",
+    "plugin_url": ""
+}

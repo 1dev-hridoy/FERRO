@@ -1,0 +1,10 @@
+{
+    "name": "todo",
+    "version": "1.0.0",
+    "author": "1dev-hridoy",
+    "description": "Task management system",
+    "slug": "system-todo",
+    "display_name": "Task Manager",
+    "commit_url": "",
+    "plugin_url": ""
+}

@@ -1,0 +1,7 @@
+{
+    "name": "reminder",
+    "author": "1dev-hridoy",
+    "version": "1.0.0",
+    "description": "Time-based reminder system with natural language parsing",
+    "enabled": true
+}

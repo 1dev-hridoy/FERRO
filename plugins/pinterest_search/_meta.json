@@ -1,0 +1,7 @@
+{
+    "name": "pinterest_search",
+    "version": "1.0.0",
+    "description": "Search and scrape high-quality images from Pinterest.",
+    "author": "1dev-hridoy",
+    "license": "ISC"
+}

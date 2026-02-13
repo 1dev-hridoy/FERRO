@@ -1,0 +1,6 @@
+{
+    "name": "code_exec",
+    "version": "1.0.0",
+    "description": "Execute JavaScript code snippets and shell commands safely",
+    "author": "1dev-hridoy"
+}
