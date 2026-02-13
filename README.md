@@ -39,12 +39,6 @@ Ferro is a sophisticated, agent-centric Telegram bot framework designed for auto
 - [Security & Safety](#-security--safety)
 - [License](#-license)
 
-## �📊 Repository Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1dev-hridoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dev-hridoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
